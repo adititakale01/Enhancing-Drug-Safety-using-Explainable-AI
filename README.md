@@ -17,6 +17,7 @@ A dataset was provided representing a large group of patients, including their d
 - <strong>Model Training</strong>: 31 models were trained and tested to find best base ML model using [Lazy Predict](https://pypi.org/project/lazypredict/)
 - <strong>Model Optimization</strong>: Hyperparameters of the best base model was tuned using bayesian optimization.
 - <strong>Model Explanations</strong>: Model results were explained by feature importances and shap values.
+- <strong>Visualization</strong>: The training results and explanation plots were visualized in a front-end, which can also be used for training.
 
 &nbsp;
 &nbsp;
@@ -25,5 +26,9 @@ A dataset was provided representing a large group of patients, including their d
 
 (https://i.ibb.co/BKr7cVF/Picture1.png) 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <h3><strong> This project is done during AI Natives Hackathon 2024 by BEST Erlangen and iba AG Fürth, Bavaria. </strong></h3>
