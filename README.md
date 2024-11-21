@@ -1,6 +1,7 @@
 # Enhancing-Drug-Safety-using-Explainable-AI
 
 This repository contains the implementation of an explainable AI based method for improving drug safety.
+**This project is done during AI Natives Hackathon 2024 by [BEST Erlangen](https://www.best-erlangen.de/) and [iba AG](https://www.iba-ag.com/de/) Fürth, Bavaria.**
 
 &nbsp;
 &nbsp;
@@ -11,7 +12,7 @@ A dataset was provided representing a large group of patients, including their d
 &nbsp;
 &nbsp;
 
-## Methods
+## Proposed Solution/Methods
 - <strong>EDA</strong>: Analysed outliers, missing values, data imbalance, statistical relationships.
 - <strong>Pre-Processing</strong>: Data imbalance was tackled using oversampling the minority class, and data normalization was performed.
 - <strong>Model Training</strong>: 31 models were trained and tested to find best base ML model using [Lazy Predict](https://pypi.org/project/lazypredict/)
@@ -19,10 +20,22 @@ A dataset was provided representing a large group of patients, including their d
 - <strong>Model Explanations</strong>: Model results were explained by feature importances and shap values.
 - <strong>Visualization</strong>: The training results and explanation plots were visualized in a front-end, which can also be used for training.
 
-
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 
-<h3><strong> This project is done during AI Natives Hackathon 2024 by BEST Erlangen and iba AG Fürth, Bavaria. </strong></h3>
+## Results/Output
+<p align="center">
+  <img src="https://github.com/arkanivasarkar/Enhancing-Drug-Safety-using-Explainable-AI/blob/main/Resources/frontend.png" alt="Image description" width="100%" height="10%">
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="https://github.com/arkanivasarkar/Enhancing-Drug-Safety-using-Explainable-AI/blob/main/Resources/metrics.png" alt="Image description" width="100%" height="10%">
+</p>
+
+&nbsp;
+&nbsp;
+
+
+
