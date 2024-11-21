@@ -19,12 +19,6 @@ A dataset was provided representing a large group of patients, including their d
 - <strong>Model Explanations</strong>: Model results were explained by feature importances and shap values.
 - <strong>Visualization</strong>: The training results and explanation plots were visualized in a front-end, which can also be used for training.
 
-&nbsp;
-&nbsp;
-
-## Results
-
-(https://i.ibb.co/BKr7cVF/Picture1.png) 
 
 &nbsp;
 &nbsp;
