@@ -13,12 +13,12 @@ A dataset was provided representing a large group of patients, including their d
 &nbsp;
 
 ## Proposed Solution/Methods
-- <strong>EDA</strong>: Analysed outliers, missing values, data imbalance, statistical relationships.
-- <strong>Pre-Processing</strong>: Data imbalance was tackled using oversampling the minority class, and data normalization was performed.
-- <strong>Model Training</strong>: 31 models were trained and tested to find best base ML model using [Lazy Predict](https://pypi.org/project/lazypredict/)
-- <strong>Model Optimization</strong>: Hyperparameters of the best base model was tuned using bayesian optimization.
-- <strong>Model Explanations</strong>: Model results were explained by feature importances and shap values.
-- <strong>Visualization</strong>: The training results and explanation plots were visualized in a front-end, which can also be used for training.
+- **EDA**: Analysed outliers, missing values, data imbalance, statistical relationships.
+- **Pre-Processing**: Data imbalance was tackled using oversampling the minority class, and data normalization was performed.
+- **Model Training**: 31 models were trained and tested to find best base ML model using [Lazy Predict](https://pypi.org/project/lazypredict/)
+- **Model Optimization**: Hyperparameters of the best base model was tuned using bayesian optimization.
+- **Model Explanations**: Model results were explained by feature importances and shap values.
+- **Visualization**: The training results and explanation plots were visualized in a front-end, which can also be used for training.
 
 &nbsp;
 &nbsp;
